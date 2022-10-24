@@ -23,9 +23,9 @@ const Accordions = (faq) => {
                                         {item.question}
                                     </Box>
                                     {isExpanded ? (
-                                        <img src="https://imgyukle.com/f/2022/10/24/n0dK26.png" width="20px" alt="denem" />
+                                        <img src="https://raw.githubusercontent.com/sinemagar/faq-gdsc/master/src/image/asagi.png?token=GHSAT0AAAAAAB2LA4ZOTF27QL65SJ5KIMKEY2XA2BQ" width="20px" alt="denem" />
                                     ) : (
-                                        <img src="https://imgyukle.com/f/2022/10/24/n0dzRv.png" width="20px" alt="denem" />
+                                        <img src="https://raw.githubusercontent.com/sinemagar/faq-gdsc/master/src/image/yukari.png?token=GHSAT0AAAAAAB2LA4ZPLYPCWUFGS3CMF5COY2XA22Ag" width="20px" alt="denem" />
                                     )}
                                 </AccordionButton>
                             </h2>
