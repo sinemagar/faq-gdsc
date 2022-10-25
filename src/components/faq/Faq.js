@@ -5,7 +5,7 @@ import axios from "axios";
 
 const Faq = () => {
 
-    const faqURL = "https://gdsc-turkey-faq.vercel.app/data.json";
+    const faqURL = "https://gdsc-turkey-d832c0xlt-nurettinselim.vercel.app/data.json";
 
     const [faq, setFaq] = useState({
         item: [],
